@@ -210,10 +210,10 @@
             // 1
 
             bindings = <
-&trans  &kp RA(GRAVE)    &kp LS(N8)           &kp LS(N9)    &kp LS(N5)  &kp AT       &kp COMMA  &kp N7  &kp N8  &kp N9  &kp KP_DIVIDE    &trans
-&trans  &kp KP_ASTERISK  &kp KP_PLUS          &kp KP_MINUS  &kp LS(N6)  &kp MINUS    &kp DOT    &kp N4  &kp N5  &kp N6  &kp KP_ASTERISK  &trans
-&trans  &kp NON_US_BSLH  &kp LS(NON_US_BSLH)  &kp LS(FSLH)  &kp RA(N2)  &kp DLLR     &kp N0     &kp N1  &kp N2  &kp N3  &kp RPAR         &trans
-                                              &trans        &trans      &trans       &trans     &trans  &trans
+&trans  &kp RA(NUMBER_1)  &kp LS(N8)           &kp LS(N9)    &kp LS(N5)  &kp AT       &kp NUMBER_6  &kp N7  &kp N8  &kp N9  &kp KP_DIVIDE    &trans
+&trans  &kp KP_ASTERISK   &kp KP_PLUS          &kp KP_MINUS  &kp LS(N6)  &kp MINUS    &kp DOT       &kp N4  &kp N5  &kp N6  &kp KP_ASTERISK  &trans
+&trans  &kp NON_US_BSLH   &kp LS(NON_US_BSLH)  &kp LS(FSLH)  &kp RA(N2)  &kp DLLR     &kp N0        &kp N1  &kp N2  &kp N3  &kp RPAR         &trans
+                                               &trans        &trans      &trans       &trans        &trans  &trans
             >;
         };
 
